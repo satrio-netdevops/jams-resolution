@@ -3,6 +3,8 @@
 NETWORK:
 - BGP
 - SD-WAN
+- Badge SRWE Cisco
+- Badge ENSA Cisco
 
 DEVOPS:
 - GIT & GITHUB
