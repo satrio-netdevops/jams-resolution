@@ -6,3 +6,6 @@ Self-Project:
 Learning:
 - Javascript
 - NodeJS
+- Full CCNA Material
+- Docker
+- Kubernetes
