@@ -2,3 +2,9 @@ Self-Project:
 - Make a Portofolio Website using HTML, CSS and Javascript
 - Finish Challange ITNSA ITechnocup 2025 PNJ
 - Finish 1 National ITNSA Challange from years range 2018-2024
+- Finish 1 WorldSkills ITNSA Challange
+
+Learning:
+- Full CCNA Material
+- Docker
+- Kubernetes
